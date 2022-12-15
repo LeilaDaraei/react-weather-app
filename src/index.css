@@ -1,5 +1,4 @@
 body {
-  background: url("./bg.png");
-  background-repeat: no-repeat;
-  background-size: 50%;
+  background: url("./Birds.png");
+  background-size: cover;
 }

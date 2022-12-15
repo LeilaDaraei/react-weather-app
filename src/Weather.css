@@ -26,6 +26,11 @@
   margin-bottom: 5px;
   vertical-align: bottom;
 }
+.Weather .btn {
+  background: #3a5944;
+  border: #3a5944;
+  padding: 8px;
+}
 
 .Weather .temperature {
   color: #212121;
