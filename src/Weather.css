@@ -25,10 +25,11 @@
   margin-right: 5px;
   margin-bottom: 5px;
   vertical-align: bottom;
+  display: inline-block;
 }
 .Weather .btn {
   background: #620f9a;
-  border: #3a5944;
+  border: #620f9a;
   padding: 8px;
 }
 
@@ -38,6 +39,7 @@
   line-height: 64px;
   font-weight: 400;
   margin-left: 10px;
+  display: inline-block;
 }
 .Weather .unit {
   color: rgb(33, 33, 33);
