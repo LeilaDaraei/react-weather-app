@@ -6,7 +6,7 @@
   background: #f9f0e5;
   padding: 150px 25px;
   border-radius: 20px;
-  border: 7px double #4a0cae;
+  border: 5px dashed #e8220cb5;
 }
 
 .App footer {
@@ -14,5 +14,5 @@
   margin: 10px 0;
 }
 .App footer a {
-  color: #d68130;
+  color: #6f12c1;
 }
