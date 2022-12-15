@@ -1,9 +1,9 @@
 .Weather {
-  border: 1px solid #dadde1;
+  border: 2px solid #d393d357;
   font-family: arial, sans-serif;
   color: #312ec3c6;
-  padding: 16px;
-  border-radius: 4px;
+  padding: 30px 15px;
+  border-radius: 8px;
 }
 
 .Weather h1 {
