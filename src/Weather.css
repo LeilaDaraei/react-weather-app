@@ -3,7 +3,7 @@
   font-family: arial, sans-serif;
   color: #312ec3c6;
   padding: 30px 15px;
-  border-radius: 8px;
+  border-radius: 20px;
 }
 
 .Weather h1 {
@@ -35,7 +35,6 @@
 
 .Weather .temperature {
   color: #0059ffde;
- 
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
