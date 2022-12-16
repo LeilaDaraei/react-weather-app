@@ -15,9 +15,9 @@
   color: #4112c1;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 690px) {
   .App {
-    margin:4px auto 4px;
+    margin: 4px 4px 4px 4px;
     display: block;
     padding: 15px 0px;
     border-radius: 18px;
