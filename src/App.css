@@ -17,7 +17,8 @@
 
 @media (max-width: 900px) {
   .App {
-    margin:24px;
+    margin:4px auto 4px;
+    display: block;
     padding: 15px 0px;
     border-radius: 18px;
     border: 2px solid #8902ab;
