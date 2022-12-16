@@ -2,3 +2,8 @@ body {
   background: url("./Birds.png");
   background-size: cover;
 }
+@media (max-width: 900px) {
+  body {
+    background: #f8f0e5;
+  }
+}

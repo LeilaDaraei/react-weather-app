@@ -14,3 +14,18 @@
 .App footer a {
   color: #4112c1;
 }
+
+@media (max-width: 900px) {
+  .App {
+    margin:24px 4px;
+    padding: 15px 0px;
+    border-radius: 18px;
+    border: 2px solid #8902ab;
+  }
+  .App footer {
+    font-size: 13px;
+    line-height: 1.7;
+    color: #414e9783;
+    margin: 40px 0 5px;
+  }
+}
