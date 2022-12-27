@@ -1,7 +1,8 @@
 .App {
   margin-left: 2vh;
   width: 100%;
-  padding: 16vh 7vh;
+  height: 100%;
+  padding: 17.7vh 1vh;
   border-radius: 4.3vh;
   border: 0.9vh double #8902ab;
 }
