@@ -1,17 +1,17 @@
 .WeatherForecast {
   text-align: center;
-  margin-top: 20px;
+  margin-top: 2.941vh;
 }
 .WeatherForecast-temperature-min {
   opacity: 0.6;
-  margin-left: 5px;
+  margin-left: 0.735vh;
 }
-@media (max-width:800px){
+@media (max-width: 117.64vh) {
   .WeatherForecast {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 4.411vh;
   }
-  .WeatherForecast-day{
-    margin-bottom: 5px;
+  .WeatherForecast-day {
+    margin-bottom: 0.735vh;
   }
 }
