@@ -1,9 +1,8 @@
 body {
-  background: url("./Birds.png");
-  background-size: cover;
+  background: #fbf0e6;
+  margin: 1vh;
 }
-@media (max-width: 900px) {
-  body {
-    background: #f8f0e5;
-  }
+
+.Image {
+  width: 100%;
 }
