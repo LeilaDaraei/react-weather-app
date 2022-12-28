@@ -15,7 +15,7 @@
   color: #4112c1;
 }
 
-@media (max-width: 117.64vh) {
+@media (max-width: em) {
   .App {
     margin: 4px;
     display: block;
