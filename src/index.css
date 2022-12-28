@@ -15,4 +15,10 @@ body {
 }
 
 @media (max-width: 117.64vh) {
+  .box {
+    display: block;
+  }
+  .Image {
+    display: none;
+  }
 }
