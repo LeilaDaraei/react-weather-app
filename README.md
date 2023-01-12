@@ -1,5 +1,7 @@
 This weather app project was coded to provide real time weather updates for different cities. Just type your city and press enter!
 
+Following the react paradigm, I have split the app into different components, major components include Weather, WeatherForecast and WeatherForecastDay and using axios to fetch the data. 
+
 
 ------
 # Getting Started with Create React App
