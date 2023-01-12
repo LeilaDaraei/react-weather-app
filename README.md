@@ -1,3 +1,7 @@
+This weather app project was coded to provide real time weather updates for different cities. Just type your city and press enter!
+
+
+------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
